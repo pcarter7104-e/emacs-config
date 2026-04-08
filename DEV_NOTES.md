@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Checked for memory leaks in long-running path
 - Resolved TODO items from previous session
 - Added basic retry logic for network requests
+
+## 2026-04-08
+- Documented config options
+- Pinned dependency versions for reproducibility
